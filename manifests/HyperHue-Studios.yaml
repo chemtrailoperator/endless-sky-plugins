@@ -1,0 +1,13 @@
+name: HyperHue Studios
+authors: ChemtrailOperator
+homepage: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky
+license: GPL-3.0-or-later
+version: v1.4
+shortDescription: In Game Access to All 29 Vanilla Swizzles
+description: This plugin adds game play to easily change your fleet's colors to any of the 29 vanilla swizzles. Simply land on any human planet and follow the story line from there.
+url: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/v1.4/HyperHue-Studios-1.4.zip
+iconUrl: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/blob/main/v1.4/icon.png
+autoupdate:
+  type: tag
+  url: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/releases/download/$version/HyperHue-Studios-1.4.zip
+  iconUrl: https://github.com/chemtrailoperator/HyperHue-Studios_EndlessSky/blob/main/$version/icon.png
